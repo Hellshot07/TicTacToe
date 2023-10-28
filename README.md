@@ -1,4 +1,4 @@
 # TicTaeToe Game
 
-### Developed using JavaScipt, CSS and HTML
+### Developed using JavaScript, CSS and HTML
 Demo : https://tictactoe-hellshot.netlify.app
